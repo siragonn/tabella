@@ -1,0 +1,101 @@
+body {
+    background-color: #3b5998;
+    font-size: 40px;
+    font-family: Arial black
+}
+
+table {
+    width: 100%;
+    color: #fff;
+    height: auto;
+}
+
+th {
+    text-align: center;
+    
+}
+td {
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+}
+
+table, th, td {    
+    border-collapse: collapse;
+    text-align: center;
+    }
+
+td, th {
+    padding: 10px;
+}
+
+/*parte sopra*/
+
+.tleft {
+    border-left: solid 1px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    height: 20%;
+    border-color: #fff;
+}
+
+.tmid {
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    text-align: center;
+    border-color: #fff;
+}
+
+.tright {
+    border-right: solid 1px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-color: #fff;
+}
+
+/*parte centrale*/
+
+.mleft {
+    border: solid 1px;
+    width: 20%;
+    border-color: #fff;
+    height: 70%;
+}
+.mmid {
+    border: solid 1px;
+    width: 50%;
+    border-color: #fff;
+}
+.mright {
+    border: solid 1px;
+    width: 30%;
+    border-color: #fff;
+}
+
+/*parte sotto*/
+
+.bleft {
+    border-left: solid 1px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    height: 10%;
+    border-color: #fff;
+}
+.bmid {
+
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    text-align: center;
+    border-color: #fff;
+}
+.bright {
+    border-right: solid 1px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-color: #fff;
+}
+
+
+
+
+
